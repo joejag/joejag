@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Joe Wright 👋
 
-<!--
-**joejag/joejag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Engineering Productivity at Fanduel
+- 🌱 I’m currently learning Kubernetes
+- 📫 How to reach me: @joe_jag
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=joejag&show_icons=true&theme=dracula&count_private=true" />
+  </div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joejag&layout=compact&theme=dracula&count_private=true" />
+  </div>
+</div>
