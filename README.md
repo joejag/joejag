@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Engineering Productivity at Fanduel
 - 🌱 I’m currently learning Kubernetes
-- 📫 How to reach me: @joe_jag
 
 <div>
   <div>
